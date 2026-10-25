@@ -1,0 +1,6 @@
+{
+  "name": "Keluarga Qur'ani - Reels Studio & Montessori Hijaiyah",
+  "description": "Simulator video Reels edukasi keluarga muslim: transformasi screen time anak usia 4-6 tahun menjadi gemar mengaji dengan metode Montessori dan keteladanan orang tua.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
